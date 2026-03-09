@@ -1,11 +1,11 @@
 #include<stdio.h>
 
-void feature1(){
+void feature2(){
 
 }
 
 int main(){
 
-  feature1();
+  feature2();
   return 0;
 }
